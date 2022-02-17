@@ -1,0 +1,13 @@
+#basic-button{
+position: relative;
+ background-color: white;
+justify-content: center;
+align-items: center;
+
+line-height: 20px;
+top: 0;
+cursor: pointer;
+background-color: blueviolet;
+width: 100%;
+color: antiquewhite;
+}
