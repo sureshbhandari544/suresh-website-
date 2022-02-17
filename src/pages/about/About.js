@@ -4,7 +4,8 @@ const About = () => {
   return (
 	<div>
 <Footer />
-heloo suresh </div>
+heloo suresh 
+<h2>this is heading tags</h2></div>
   )
 }
 
